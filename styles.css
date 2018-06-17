@@ -1,0 +1,35 @@
+h1 {
+  color: green;
+  text-align:center;
+}
+
+p {
+  color: red;
+}
+
+div{
+  background-color: teal;
+  width: 500px;
+  height: 400px;
+  margin: 30px;
+  padding: 20px;
+  font-family: arial, sans-serif;
+  font-size: 28px;
+  border: 3px solid yellow;
+}
+
+table{
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border:2px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}
